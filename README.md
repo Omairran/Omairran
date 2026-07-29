@@ -24,7 +24,7 @@ I enjoy solving real-world problems through software and continuously learning n
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Full-Stack Web Development
