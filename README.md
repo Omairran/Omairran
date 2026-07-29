@@ -21,6 +21,7 @@
 I'm a Computer Science graduate passionate about **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**.
 Currently working as a **Development Engineering Intern at NETSOL Technologies**, where I build scalable web applications using modern technologies including **React, Django REST Framework, FastAPI, and Python**.
 I enjoy solving real-world problems through software and continuously learning new technologies.
+
 ---
 
 ## 🚀 Current Focus
