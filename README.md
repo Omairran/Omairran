@@ -185,28 +185,6 @@ A custom programming language interpreter implementing compiler design concepts 
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omairran&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omairran&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Omairran&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 📧 Email: **umair.ranaahmad@gmail.com**
