@@ -82,14 +82,14 @@ I enjoy solving real-world problems through software and continuously learning n
 
 ### Tools
 
-• Git 
-• GitHub 
-• VS Code 
-• Google Colab 
-• MySQL Workbench 
-• Tkinter 
-• Draw.io 
-• MS Office
+- Git 
+- GitHub 
+- VS Code 
+- Google Colab 
+- MySQL Workbench 
+- Tkinter 
+- Draw.io 
+- MS Office
 
 ---
 
